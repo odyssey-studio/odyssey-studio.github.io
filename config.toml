@@ -1,0 +1,65 @@
+baseURL = "http://odyssey-studio.net"
+title = "奥德赛工作室 Odyssey Studio"
+theme = "hugo-coder"
+languageCode = "en"
+
+[params]
+  author = "奥德赛工作室"
+  info = ["Odyssey Studio","","一个刚刚成立的不正经游戏工作室"]
+  description = "Odyssey Studio"
+  avatarurl = "images/logo.jpg"
+  favicon_32 = "images/logo.jpg"
+  since = 2023
+  colorScheme = "dark"
+  customCSS = ["css/iconfont.css"]
+
+[[params.social]]
+  name = "Github"
+  icon = "fa iconfont icon-github"
+  weight = 1
+  url = "https://github.com/odyssey-studio"
+[[params.social]]
+  name = "YouTube"
+  icon = "fa iconfont icon-youtube"
+  weight = 1
+  url = "https://www.youtube.com/@odyssey-studio"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa iconfont icon-twitter"
+  weight = 1
+  url = "https://twitter.com/_odyssey_studio"
+[[params.social]]
+  name = "哔哩哔哩"
+  icon = "fa iconfont icon-bilibili"
+  weight = 2
+  url = "https://space.bilibili.com/3537121883195941"
+[[params.social]]
+  name = "抖音"
+  icon = "fa iconfont icon-douyin"
+  weight = 2
+  url = "https://v.douyin.com/iejUrMQ4"
+[[params.social]]
+  name = "快手"
+  icon = "fa iconfont icon-kuaishou"
+  weight = 2
+  url = "https://v.kuaishou.com/PPZUC"
+[[params.social]]
+  name = "小红书"
+  icon = "fa iconfont icon-xiaohongshu"
+  weight = 2
+  url = "https://www.xiaohongshu.com/user/profile/5d5e7f4c000000000100a319"
+[[params.social]]
+  name = "AcFun"
+  icon = "fa iconfont icon-acfun"
+  weight = 2
+  url = "https://www.acfun.cn/u/74300475"
+[[params.social]]
+  name = "微博"
+  icon = "fa iconfont icon-weibo"
+  weight = 3
+  url = "https://weibo.com/u/7860452973"
+[[params.social]]
+  name = "QQ"
+  icon = "fa iconfont icon-qq"
+  weight = 3
+  url = "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=AdGJ7H4fkwC6MKCA1QkzuejftEb5zSWi&authKey=xC9IchXtT276D2bEj19c6lwrWKsJk1zAC9KWi%2BDIONInvbp%2BtIjXo80ysvM2Nd5c&noverify=0&group_code=208914259"
