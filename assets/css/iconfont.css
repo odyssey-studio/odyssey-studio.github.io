@@ -13,6 +13,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-discord:before {
+  content: "\eb7a";
+}
+
+.icon-aifadian:before {
+  content: "\e605";
+}
+
 .icon-qq:before {
   content: "\e601";
 }

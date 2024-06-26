@@ -8,8 +8,9 @@ languageCode = "en"
   info = ["Odyssey Studio","","一个刚刚成立的不正经游戏工作室"]
   description = "Odyssey Studio"
   avatarurl = "images/logo.jpg"
+  faviconSVG = "images/logo.jpg"
   favicon_32 = "images/logo.jpg"
-  since = 2023
+  favicon_16 = "images/logo.jpg"
   colorScheme = "dark"
   customCSS = ["css/iconfont.css"]
 
@@ -63,3 +64,13 @@ languageCode = "en"
   icon = "fa iconfont icon-qq"
   weight = 3
   url = "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=AdGJ7H4fkwC6MKCA1QkzuejftEb5zSWi&authKey=xC9IchXtT276D2bEj19c6lwrWKsJk1zAC9KWi%2BDIONInvbp%2BtIjXo80ysvM2Nd5c&noverify=0&group_code=208914259"
+[[params.social]]
+  name = "爱发电"
+  icon = "fa iconfont icon-aifadian"
+  weight = 3
+  url = "https://afdian.net/a/odyssey-studio"
+[[params.social]]
+  name = "Discord"
+  icon = "fa iconfont icon-discord"
+  weight = 3
+  url = "https://discord.gg/779ssfmv"
