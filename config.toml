@@ -43,7 +43,7 @@ languageCode = "en"
   name = "快手"
   icon = "fa iconfont icon-kuaishou"
   weight = 2
-  url = "https://v.kuaishou.com/PPZUC"
+  url = "https://live.kuaishou.com/profile/odyssey_studio"
 [[params.social]]
   name = "小红书"
   icon = "fa iconfont icon-xiaohongshu"
